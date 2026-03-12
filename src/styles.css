@@ -126,7 +126,7 @@ h1,
         font-size: 35px;
        }
 
-      @media (max-width: 360px) {
+      @media (max-width: 480px) {
         .logo {
           width: 55%;              /* Slightly smaller than full width */
           max-width: 280px;        /* Prevents it from getting too large */
